@@ -28,7 +28,7 @@ h3 {
     background-color: aquamarine;
     margin: 20px;
     width: 300px;
-    height: 280px;
+    height: 300px;
     box-shadow: 4px 4px 15px 5px rgb(0, 0, 0);
 }
 .container:hover {
@@ -54,7 +54,7 @@ transform: scale(1.05);
     /* background-size: 200px 300px; */
     margin: 20px;
     width: 300px;
-    height: 280px;
+    height: 300px;
     box-shadow: 4px 4px 15px 5px rgb(0, 0, 0);
 }
 .container1:hover {
